@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileReader - Katharine Wunderle\bin\Debug\FileReader - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileReader - Katharine Wunderle\bin\Debug\FileReader - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileReader - Katharine Wunderle\bin\Debug\FileReader - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileReader - Katharine Wunderle\obj\Debug\FileReader - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileReader - Katharine Wunderle\obj\Debug\FileReader___Katharine_Wunderle.Form1.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileReader - Katharine Wunderle\obj\Debug\FileReader___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileReader - Katharine Wunderle\obj\Debug\FileReader - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileReader - Katharine Wunderle\obj\Debug\FileReader - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileReader - Katharine Wunderle\obj\Debug\FileReader - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 13\FilesA - Katharine Wunderle\FileReader - Katharine Wunderle\obj\Debug\FileReader - Katharine Wunderle.pdb
